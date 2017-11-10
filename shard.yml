@@ -1,0 +1,13 @@
+name: yes
+version: 0.1.0
+
+authors:
+  - at-grandpa <yoshiyuki.tsuchida.k@gmail.com>
+
+targets:
+  yes:
+    main: src/yes.cr
+
+crystal: 0.23.1
+
+license: MIT
