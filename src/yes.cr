@@ -1,5 +1,5 @@
 require "./yes/*"
 
-module Yes
-  # TODO Put your code here
+loop do
+  puts 'y'
 end

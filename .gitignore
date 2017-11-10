@@ -1,4 +1,6 @@
 /doc/
 /lib/
-/bin/
+/bin/*
 /.shards/
+
+!/bin/.gitkeep
