@@ -8,3 +8,6 @@ build:
 
 build/release:
 	crystal build -o ./bin/yes --release ./src/yes.cr
+
+pv:
+	crystal run --release ./src/yes.cr  | pv -r > /dev/null
